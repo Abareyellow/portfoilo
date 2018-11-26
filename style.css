@@ -5,11 +5,19 @@ body {
 h1 {
   font-size : 30px;
 }
+h2 {
+  font-size: 25px;
+  font-family: 'Finger Paint'; color: #17ACFD;
+}
 h5 {
   font-size: 18px;
 }
 p {
   font-size: 15px;
+}
+td, tr {
+  padding-right: 15px;
+  padding-top: 10px;
 }
 * {
     box-sizing: border-box;
@@ -41,13 +49,13 @@ p {
 .leftcolumn {
   float: left;
   width: 75%;
-  font-family: 'Finger Paint'; color: #944694;
+  font-family: 'Sunflower'; color: #944694;
 }
 .rightcolumn {
   float: left;
   width: 25%;
   padding-left: 20px;
-  font-family: 'Finger Paint'; color: #944694;
+  font-family: 'Sunflower'; color: #944694;
 }
 .card {
   background-color: #FFFF99;
