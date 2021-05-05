@@ -33,6 +33,7 @@ td, tr {
   overflow: hidden;
   background-color: #78F8A3;
   font-family: 'Finger Paint';
+  width: 100%;
 }
 .topnav a {
   float: left;
@@ -40,11 +41,13 @@ td, tr {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  width: 100%;
 }
 .topnav a:hover {
   background-color: #CD0000;
   color: #FFFFFF;
   font-family: 'Finger Paint';
+  width: 100%;
 }
 .leftcolumn {
   float: left;
